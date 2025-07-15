@@ -14,3 +14,6 @@ Welcome to my personal portfolio website! I'm **Yash**, a passionate **Software 
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
 - **Backend**: Node.js, Express, MongoDB
 - **Tools**: Git, GitHub
+
+## Live Project Link
+[Live Link](https://portfolio-neo.onrender.com)
